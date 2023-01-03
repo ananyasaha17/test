@@ -1,4 +1,5 @@
 Welcome to git
  
-Git is using here for Persistent
+
 we'll learn git here
+3rd jan learning about ading and comiting in git
