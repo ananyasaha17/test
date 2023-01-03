@@ -1,1 +1,4 @@
 Welcome to git
+ 
+Git is using here for Persistent
+we'll learn git here
